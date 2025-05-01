@@ -95,6 +95,13 @@ Structured with clear, analysis-ready columns and types.
 
 ![Cleaned Dataset]![Screenshot (268)](https://github.com/user-attachments/assets/7b5d73cb-516d-4970-8e99-f70573f0c84e)
 
+## Full Documentation
+
+For a more detailed explanation of the project, including before-and-after images, check out the full documentation on my WordPress site:
+
+[Project Documentation on WordPress](https://josephifechukwu.wordpress.com/data-cleaning-project-customer-support-logs/)
+
+
 🔗 Project Motto
 "Transforming Data into Insights and Visual Stories"
   Data by Joseph Ifechukwu
